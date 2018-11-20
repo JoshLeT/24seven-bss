@@ -1,0 +1,58 @@
+#nav-247 {
+  /*background-color: g;*/
+}
+
+.gradient {
+  background: linear-gradient(12deg,#afd341,#afd341);
+  color: green;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #afd341;
+  border-color: #afd341;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus, .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem #afd341;
+}
+
+.btn-outline-primary.focus, .btn-outline-primary:focus {
+  box-shadow: 0 0 0 .2rem #afd341;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #afd341;
+  border-color: #afd341;
+}
+
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem #afd341;
+}
+
+a:hover {
+  color: #afd341;
+  text-decoration: underline;
+}
+
+.btn-outline-primary {
+  color: #afd341;
+  background-color: transparent;
+  background-image: none;
+  border-color: #afd341;
+}
+
+.contact-page-p {
+  padding-top: 15px;
+}
+
+#address-footer {
+  margin-bottom: 2px;
+}
+
+.portfolio-block .heading p {
+  margin-bottom: 18px;
+}
+
